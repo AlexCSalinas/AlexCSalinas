@@ -19,12 +19,7 @@
 - 📊 Subreddit Analyzer: Data visualization tool for r/uofm
 - 🌐 Personal Website: [Check it out!](https://alexcsalinas.github.io/personalsite/)
 
-### [Your Other Project Name]
-- 🎯 Brief project description
-- 💻 Tech stack used
-- 🌟 Key features or achievements
-
 ## 📫 Let's Connect!
 - Portfolio: [alexcsalinas.github.io](https://alexcsalinas.github.io/personalsite/)
-- Email: [your-email@example.com]
-- LinkedIn: [Your LinkedIn Profile]
+- Email: [alexsali@umich.edu]
+- LinkedIn: [www.linkedin.com/in/alexandercsalinas]
