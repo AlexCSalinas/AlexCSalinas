@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Alex!
+Hi there! I'm Alex! 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
 💻 C++ Developer | 🎓 CS @ UMich | 🔭 Currently: Subreddit Analyzer for r/uofm
