@@ -1,4 +1,9 @@
 Hi there! I'm Alex! 
+ ▄▄▄· ▄▄▌  ▄▄▄ .▐▄• ▄        
+▐█ ▀█ ██•  ▀▄.▀· █▌█▌▪       
+▄█▀▀█ ██▪  ▐▀▀▪▄ ·██·        
+▐█ ▪▐▌▐█▌▐▌▐█▄▄▌▪▐█·█▌       
+ ▀  ▀ .▀▀▀  ▀▀▀ •▀▀ ▀▀ 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
