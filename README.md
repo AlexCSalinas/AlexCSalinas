@@ -2,10 +2,10 @@ Hi there! I'm Alex!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
-💻 C++ Developer | 🎓 CS @ UMich | 🔭 Currently: Subreddit Analyzer for r/uofm
+💻 I like building! | 🎓 CS @ UMich | 🔭 Currently: Subreddit Analyzer for r/uofm
 
 <details>
-<summary>Tech Stack</summary>
+<summary>Languages</summary>
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -21,7 +21,7 @@ Hi there! I'm Alex!
 - 🌐 [Personal Website](https://alexcsalinas.github.io/personalsite/)
 </details>
 
-### Connect
+Connect
 [Portfolio](https://alexcsalinas.github.io/personalsite/) | 
 [Email](mailto:alexsali@umich.edu) | 
 [LinkedIn](https://www.linkedin.com/in/alexandercsalinas)
