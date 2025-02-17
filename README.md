@@ -1,6 +1,4 @@
-Hi there! I'm Alex! 
-
-41 6C 65 78  
+Hi there! I'm Alex! Or 41 6C 65 78 if you only understand Hexadecimal...
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
