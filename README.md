@@ -17,7 +17,7 @@ Hi there! I'm Alex! Or 41 6C 65 78 if you only understand Hexadecimal...
 <details>
 <summary>Current Projects</summary>
 
-- 📊 Subreddit Analyzer: Data visualization tool for r/uofm
+- 📊 [Subreddit Analyzer for r/uofm](https://reddit-analyzer.vercel.app/)
 - 🌐 [Personal Website](https://alexcsalinas.github.io/personalsite/)
 </details>
 
