@@ -1,4 +1,4 @@
-Hi there! I'm Alex! Or 41 6C 65 78 if you only understand Hexadecimal...
+Hi there! I'm Alex! 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
