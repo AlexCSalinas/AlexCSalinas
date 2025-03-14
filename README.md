@@ -2,7 +2,7 @@ Hi there! I'm Alex!
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.github.io/personalsite/)
 
-💻 I like building! | 🎓 CS @ UMich | 🔭 Currently: Subreddit Analyzer for r/uofm
+💻 I like building! | 🎓 CS @ UMich | 🔭 Currently: a little but of this and little bit of that
 
 <details>
 <summary>Languages</summary>
@@ -17,6 +17,7 @@ Hi there! I'm Alex!
 <details>
 <summary>Current Projects</summary>
 
+- 🟩 [Auto commit workflow](https://github.com/AlexCSalinas/AutoGreenBox)
 - 📊 [Subreddit Analyzer for r/uofm](https://reddit-analyzer.vercel.app/)
 - 🌐 [Personal Website](https://alexcsalinas.github.io/personalsite/)
 </details>
