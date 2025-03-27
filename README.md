@@ -17,8 +17,7 @@ Hi there! I'm Alex!
 <details>
 <summary>Current Projects</summary>
 
-- 🟩 [Auto commit workflow](https://github.com/AlexCSalinas/AutoGreenBox)
-- 📊 [Subreddit Analyzer for r/uofm](https://reddit-analyzer.vercel.app/)
+- 📖 [MBooking](https://mbooking.me)
 - 🌐 [Personal Website](https://alexcsalinas.github.io/personalsite/)
 </details>
 
