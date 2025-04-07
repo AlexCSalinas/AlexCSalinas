@@ -22,6 +22,6 @@ Hi there! I'm Alex!
 </details>
 
 Connect
-[Portfolio](https://alexcsalinas.github.io/personalsite/) | 
+[Portfolio](https://alexsalinas.vercel.app/) | 
 [Email](mailto:alexsali@umich.edu) | 
 [LinkedIn](https://www.linkedin.com/in/alexandercsalinas)
