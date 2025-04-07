@@ -18,7 +18,7 @@ Hi there! I'm Alex!
 <summary>Current Projects</summary>
 
 - 📖 [MBooking](https://mbooking.me)
-- 🌐 [Personal Website](https://alexcsalinas.github.io/personalsite/)
+- 🌐 [Personal Website](https://alexsalinas.vercel.app/)
 </details>
 
 Connect
