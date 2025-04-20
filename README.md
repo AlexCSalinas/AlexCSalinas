@@ -18,6 +18,7 @@ Hi there! I'm Alex!
 <summary>Current Projects</summary>
 
 - 📖 [MBooking](https://mbooking.me)
+- 💻 [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AlexanderSalinas.terminal-tracker)
 - 🌐 [Personal Website](https://alexsalinas.vercel.app/)
 </details>
 
