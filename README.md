@@ -27,4 +27,4 @@ Connect
 [Email](mailto:alexsali@umich.edu) | 
 [LinkedIn](https://www.linkedin.com/in/alexandercsalinas)
 
-![3D Profile](./profile-3d-contrib/profile-green-animate.svg)
+![3D Profile](./profile-3d-contrib/profile-night-green-animate.svg)
