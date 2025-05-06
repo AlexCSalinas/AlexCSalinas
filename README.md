@@ -1,6 +1,6 @@
 Hi there! I'm Alex! 
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexsalinas.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-blue)](https://alexcsalinas.com)
 
 💻 I like building! | 🎓 CS @ UMich | 🔭 Currently: a little but of this and little bit of that
 
@@ -19,11 +19,11 @@ Hi there! I'm Alex!
 
 - 📖 [MBooking](https://mbooking.me)
 - 💻 [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=AlexanderSalinas.terminal-tracker)
-- 🌐 [Personal Website](https://alexsalinas.vercel.app/)
+- 🌐 [Personal Website](https://alexcsalinas.com)
 </details>
 
 Connect
-[Portfolio](https://alexsalinas.vercel.app/) | 
+[Portfolio](https://alexcsalinas.com) | 
 [Email](mailto:alexsali@umich.edu) | 
 [LinkedIn](https://www.linkedin.com/in/alexandercsalinas)
 
