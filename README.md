@@ -8,17 +8,17 @@
 ```
 
 ```
-    CS @ UMich          •          I like building!
+    CS @ UMich 
 ```
 
 ```
-         ╭─────────────────────────────────╮
-         │                                 │
-         │    alexcsalinas.com             │
-           │    alexsali@umich.edu           │  
-         │    linkedin.com/in/alexcsalinas │
-         │                                 │
-         ╰─────────────────────────────────╯
+╭─────────────────────────────────╮
+│                                 │
+│    alexcsalinas.com             │
+│    alexsali@umich.edu           │  
+│    linkedin.com/in/alexcsalinas │
+│                                 │
+╰─────────────────────────────────╯
 ```
 
 <details>
