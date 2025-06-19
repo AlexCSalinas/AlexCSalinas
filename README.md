@@ -19,7 +19,7 @@
          ╭─────────────────────────────────╮
          │                                 │
          │    alexcsalinas.com             │
-          │    alexsali@umich.edu           │  
+           │    alexsali@umich.edu           │  
          │    linkedin.com/in/alexcsalinas │
          │                                 │
          ╰─────────────────────────────────╯
