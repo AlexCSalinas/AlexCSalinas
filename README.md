@@ -23,7 +23,7 @@
 <summary><code>stack</code></summary>
 
 ```
-C++  ┃  Go  ┃  Python  ┃  Java  ┃  JavaScript  ┃  HTML/CSS
+C++  ┃  Go  ┃  Python  ┃  Java  ┃  TypeScript  ┃  HTML/CSS
 ```
 
 </details>
